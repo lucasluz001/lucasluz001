@@ -60,8 +60,8 @@ Me chamo Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Pau
 # 📊 Estatísticas
 
 <div align="left">
-    <img height="192px" alt="Lucas's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluz001&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-        <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lucasluz001&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="Lucas's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluz001&theme=transparent&title_color=034C8C&color=000000&text_color=000000&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+        <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lucasluz001&theme=transparent&rank_icon=github&title_color=034C8C&color=000000&text_color=000000&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 </div>
 
 <a href="https://github.com/K1rsN7/K1rsN7"><img alt="Lucas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasluz001&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
