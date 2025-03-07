@@ -4,7 +4,9 @@
 
 Me chamo Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Paulo. Conclui meu ensino médio na ETEC Paulistano, com o curso de informática. Atualmente estou estudando para me tornar um desenvolvedor Front-end.
 
-### 🧾 Linguagens e Tecnologias
+<br/>
+
+# 🧾 Linguagens e Tecnologias
 
 <p>
     <img
@@ -49,6 +51,9 @@ Me chamo Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Pau
     />
 </p>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
