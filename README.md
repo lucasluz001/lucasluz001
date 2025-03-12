@@ -2,7 +2,7 @@
 
 **'Desenvolvedor Front-end'**
 
-Me chamo Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Paulo. Conclui meu ensino médio na ETEC Paulistano, com o curso de informática. Atualmente estou estudando para me tornar um desenvolvedor Front-end.
+Meu nome é Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Paulo. Conclui meu ensino médio na ETEC Paulistano, com o curso de informática. Atualmente estou estudando para me tornar um desenvolvedor Front-end.
 
 <br/>
 
@@ -64,4 +64,3 @@ Me chamo Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Pau
         <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lucasluz001&theme=transparent&rank_icon=github&title_color=034C8C&color=000000&text_color=000000&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 </div>
 
-<a href="https://github.com/K1rsN7/K1rsN7"><img alt="Lucas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasluz001&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
