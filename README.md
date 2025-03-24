@@ -1,8 +1,8 @@
 # 💻 Lucas Luz
 
-**'Desenvolvedor Front-end'**
+**'Desenvolvedor Full Stack'**
 
-Meu nome é Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos e sou de São Paulo. Conclui meu ensino médio na ETEC Paulistano, com o curso de informática. Atualmente estou estudando para me tornar um desenvolvedor Front-end.
+Meu nome é Lucas Luz dos Santos, nesse ano de 2025 faço 24 anos. Conclui meu ensino médio na ETEC Paulistano, com o curso de informática e atualmente estou estudando para me tornar um desenvolvedor Full Stack.
 
 <br/>
 
